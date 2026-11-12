@@ -1,0 +1,13 @@
+{
+  "jobs": [
+    {
+      "company": "Accenture",
+      "role": "React Developer",
+      "status": "applied",
+      "location": "Chennai",
+      "appliedOn": "2026-11-10",
+      "id": "_X4whwEagQ8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
