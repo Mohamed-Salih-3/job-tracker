@@ -15,7 +15,7 @@ const Header = () => {
           <NavLink  to='/settings'>Settings</NavLink>
         </nav>
         <button type='button' onClick={toggleTheme} className='font-bold border-2 border-indigo-600 rounded-md p-1 bg-indigo-600 text-white hover:bg-black hover:border-black cursor-pointer' id="nav-btn">
-          {theme === "light" ? "Dark" : "Light"} Mode
+          {theme === "light" ? "Dark" : "Light"}
         </button>
     </header>
   )
